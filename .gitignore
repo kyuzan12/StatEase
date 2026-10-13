@@ -25,3 +25,6 @@ Thumbs.db
 
 # Claude Code preview settings (local only)
 /.claude
+
+# Word lock files
+~$*
